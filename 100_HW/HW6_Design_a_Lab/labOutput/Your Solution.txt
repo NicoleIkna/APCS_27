@@ -1,0 +1,3 @@
+
+Make a game of Rock, Paper Scissors using input and Math.random methods
+There are three rounds, and each one can either end up with the computer winning, the user winning, or a tie.
